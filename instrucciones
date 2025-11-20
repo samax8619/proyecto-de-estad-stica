@@ -1,0 +1,5 @@
+1 : debe instalar XAMPP en tu computadora 
+2 : activar el servidor apache y que este este en verde 
+3 : tener descargado los lenguajes de programacion 
+4 : ejecutar los comando en cmd para que este de la ruta al navegador o que prube atea ruta si te sirve recuerda que el archi debe estar descomprimido en la ruta : C:\xampp\htdocs en el explorador de archivos 
+5: despues usar la ruta si te sirve :http://localhost/proyecto_estadistico_php/index.php
